@@ -10,5 +10,6 @@
     "CtrlUnderscore": "JumpLine",
     "CtrlE": "EndOfLine",
     "CtrlA": "StartOfLine",
-    "CtrlC": "Copy"
+    "CtrlC": "Copy",
+    "CtrlR": "CommandMode"
 }
