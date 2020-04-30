@@ -1,0 +1,14 @@
+{
+    "Alt-/": "lua:comment.comment",
+    "CtrlK": "CutLine",
+    "CtrlO": "Save",
+    "CtrlU": "Paste",
+    "CtrlV": "CursorPageDown",
+    "CtrlW": "Find",
+    "CtrlX": "Quit",
+    "CtrlY": "CursorPageUp",
+    "CtrlUnderscore": "JumpLine",
+    "CtrlE": "EndOfLine",
+    "CtrlA": "StartOfLine",
+    "CtrlC": "Copy"
+}
