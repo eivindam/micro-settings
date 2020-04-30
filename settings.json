@@ -53,12 +53,10 @@
     "syntax": true,
     "tabmovement": false,
     "tabsize": 4,
-    "tabstospaces": false,
+    "tabstospaces": true,
     "useprimary": true,
     "xterm": false,
     "ft:go": {
         "tabstospaces": false
-    },
-    "tabstospaces": true,
-    "tabsize": 4
+    }
 }
