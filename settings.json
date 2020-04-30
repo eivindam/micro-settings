@@ -55,5 +55,10 @@
     "tabsize": 4,
     "tabstospaces": false,
     "useprimary": true,
-    "xterm": false
+    "xterm": false,
+    "ft:go": {
+        "tabstospaces": false
+    },
+    "tabstospaces": true,
+    "tabsize": 4
 }
