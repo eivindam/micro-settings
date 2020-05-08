@@ -1,5 +1,5 @@
-# nano-like keybinds and settings for the [micro](https://github.com/zyedidia/micro) editor, please contribute.
+# nano-like keybinds and settings for the [micro](https://github.com/zyedidia/micro) editor
 
-`mv bindings.json ~/.config/micro/`
+`cp bindings.json ~/.config/micro/`
 
-`mv settings.json ~/.config/micro/`
+`cp settings.json ~/.config/micro/`
